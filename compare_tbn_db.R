@@ -10,3 +10,5 @@ tbn_pl <- tbn_pl[-grep("穿山甲|金翅雀|翻石鷸|大麗燈蛾",tbn_pl$`物�
 
 
 write.csv(tbn_pl,"query_tbn_pl.csv",fileEncoding = "UTF-8")
+
+# test for changing sth.
